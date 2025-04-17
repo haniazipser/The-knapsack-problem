@@ -2,7 +2,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertArrayEquals;
 
-public class PlecakTest{
+public class Tests{
     @Test
     public void recTest() {
         //pojemnosc, 0, wagi, 0,ile
