@@ -1,8 +1,8 @@
 # The knapsack problem
 ## Project Overview
--This project involves implementing a solution to the classic **Knapsack Problem**.
--The objective is to select a subset of items to include in a knapsack such that the total weight does not exceed the given capacity and the total value is maximized.
--Two solutions are provided, one recursive, one iterative.
+- This project involves implementing a solution to the classic **Knapsack Problem**.
+- The objective is to select a subset of items to include in a knapsack such that the total weight does not exceed the given capacity and the total value is maximized.
+- Two solutions are provided, one recursive, one iterative.
 
 ## Provided Solutions
 This repository includes **two separate implementations** of the algorithm:
